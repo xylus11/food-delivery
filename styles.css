@@ -354,7 +354,7 @@ color:#69697B;
 
    }
    .bg{
-      background-image:url("./assets/bg.png");
+      background-image:url("bg.png");
       width:100vw;
       background-repeat: no-repeat;
       border-radius: 50px;;
